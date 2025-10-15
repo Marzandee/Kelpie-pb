@@ -1,0 +1,59 @@
+2025-10-14 23:50:15,041 : INFO : root : Loading config.
+2025-10-14 23:50:15,078 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\mysur\AppData\Local\Temp\config_spec.mpf_cache
+2025-10-14 23:50:15,079 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-10-14 23:50:15,079 : INFO : ConfigProcessor : Loading config from file C:\Users\mysur\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2025-10-14 23:50:15,089 : INFO : ConfigProcessor : Loading config: C:\Users\mysur\mpf\Lib\site-packages\mpf\mpfconfig.yaml
+2025-10-14 23:50:15,089 : INFO : ConfigProcessor : Loading config from file C:\Users\mysur\Documents\Kelpie-pb\config\config.yaml.
+2025-10-14 23:50:15,090 : INFO : ConfigProcessor : Loading config: C:\Users\mysur\Documents\Kelpie-pb\config\config.yaml
+2025-10-14 23:50:15,091 : INFO : ConfigProcessor : Config file cache created: C:\Users\mysur\AppData\Local\Temp\b70e9bf1d885364d28929e286abba449.mpf_cache
+2025-10-14 23:50:15,885 : INFO : ConfigProcessor : Loading config from file C:\Users\mysur\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2025-10-14 23:50:15,886 : INFO : ConfigProcessor : Loading config: C:\Users\mysur\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2025-10-14 23:50:15,887 : INFO : ConfigProcessor : Loading config from file C:\Users\mysur\Documents\Kelpie-pb\modes\attract\config\attract.yaml.
+2025-10-14 23:50:15,887 : INFO : ConfigProcessor : Loading config: C:\Users\mysur\Documents\Kelpie-pb\modes\attract\config\attract.yaml
+2025-10-14 23:50:15,888 : INFO : ConfigProcessor : Config file cache created: C:\Users\mysur\AppData\Local\Temp\ceb43a75dbe4d1ca06ff3bf21cf041b5.mpf_cache
+2025-10-14 23:50:15,889 : INFO : ConfigProcessor : Loading config from file C:\Users\mysur\mpf\Lib\site-packages\mpf\modes\game\config\game.yaml.
+2025-10-14 23:50:15,890 : INFO : ConfigProcessor : Loading config: C:\Users\mysur\mpf\Lib\site-packages\mpf\modes\game\config\game.yaml
+2025-10-14 23:50:15,891 : INFO : ConfigProcessor : Config file cache created: C:\Users\mysur\AppData\Local\Temp\13c5bf3c9fe088f4975164206cbbe568.mpf_cache
+2025-10-14 23:50:15,891 : INFO : ConfigProcessor : Loading config from cache: C:\Users\mysur\AppData\Local\Temp\ceb43a75dbe4d1ca06ff3bf21cf041b5.mpf_cache
+2025-10-14 23:50:15,891 : INFO : ConfigProcessor : Loading config from file C:\Users\mysur\Documents\Kelpie-pb\modes\base\config\base.yaml.
+2025-10-14 23:50:15,892 : INFO : ConfigProcessor : Loading config: C:\Users\mysur\Documents\Kelpie-pb\modes\base\config\base.yaml
+2025-10-14 23:50:15,893 : INFO : ConfigProcessor : Config file cache created: C:\Users\mysur\AppData\Local\Temp\1104d32c3b2def81b59a939786227351.mpf_cache
+2025-10-14 23:50:15,894 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev11
+2025-10-14 23:50:15,894 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-10-14-23-50-15-mpf-Kelpie-PB.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\mysur\\Documents\\Kelpie-pb\\logs\\2025-10-14-23-50-15-mpf-Kelpie-PB.log'}
+2025-10-14 23:50:15,894 : INFO : Machine : MPF path: C:\Users\mysur\mpf\Lib\site-packages\mpf
+2025-10-14 23:50:15,894 : INFO : Machine : Machine path: C:\Users\mysur\Documents\Kelpie-pb
+2025-10-14 23:50:15,894 : INFO : Machine : Platform: win32
+2025-10-14 23:50:15,894 : INFO : Machine : Python executable location: C:\Users\mysur\mpf\Scripts\python.exe
+2025-10-14 23:50:15,894 : INFO : Machine : Python version: 3.12.10 (64-bit)
+2025-10-14 23:50:15,897 : INFO : Machine : Initializing MPF...
+2025-10-14 23:50:16,563 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,729 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,729 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,729 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,729 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.10', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,934 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.26100-SP0', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,934 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,934 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,934 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26100', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,934 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,934 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\mysur\\Documents\\Kelpie-pb\\logs\\2025-10-14-23-50-15-mpf-Kelpie-PB.log', 'prev_value': None, 'change': True}
+2025-10-14 23:50:16,934 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2025-10-14 23:50:17,015 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2025-10-14 23:50:17,071 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2025-10-14 23:50:17,072 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2025-10-14 23:50:17,088 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-10-14 23:50:17,088 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-10-14 23:50:17,088 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2025-10-14 23:50:17,088 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2025-10-14 23:50:17,088 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2025-10-14 23:50:17,088 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2025-10-14 23:50:17,088 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2025-10-14 23:50:17,089 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2025-10-14 23:50:17,089 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2025-10-14 23:50:17,089 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2025-10-14 23:50:17,089 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2025-10-14 23:50:17,089 : INFO : Mode.attract : Started. Priority: 10
+2025-10-14 23:50:17,089 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2025-10-14 23:50:17,089 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2025-10-14 23:50:17,090 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2025-10-14 23:50:17,090 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
